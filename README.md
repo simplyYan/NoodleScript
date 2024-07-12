@@ -1,4 +1,3 @@
-# NoodleScript
 ![NoodleScript](https://raw.githubusercontent.com/simplyYan/NoodleScript/main/repo%20config/NoodleScript%20header%20logo.png)
 
 ## Brief Description
