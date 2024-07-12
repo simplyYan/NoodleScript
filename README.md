@@ -1,4 +1,5 @@
 # NoodleScript
+![NoodleScript](https://raw.githubusercontent.com/simplyYan/NoodleScript/main/repo%20config/NoodleScript%20headerlogo.png)
 
 ## Brief Description
 NoodleScript is a strongly-typed scripting language designed to transpile to JavaScript with features inspired by CoffeeScript. It aims to simplify JavaScript development while enforcing type safety and providing high-level abstractions.
